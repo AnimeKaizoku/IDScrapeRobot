@@ -29,7 +29,7 @@ class Config:
     ]
     # if any of the platform, does not work
     # please reopen
-    # https://github.com/SpEcHiDe/MyTelegramOrgRoBot/issues/3
+    # https://gitHub.com/AnimeKaizoku/IDScrapeRobot/issues/3
     APP_DESCRIPTION = os.environ.get(
         "APP_DESCRIPTION",
         "created using https://telegram.dog/UseTGxBot"
